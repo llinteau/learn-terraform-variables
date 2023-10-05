@@ -3,7 +3,7 @@
 
 terraform {
   cloud {
-      organization = "learn-terraform-eks"
+      organization = "LYSETTE_ORG2"
       workspaces {
         name = "learn-terraform-variables"
       }
